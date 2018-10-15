@@ -1,5 +1,8 @@
-body {
+.row {
+    
     background-color: blue;
     height: 500px;
-    
+   
+    border-right: .25in; color: white;
+    color: black
 }
